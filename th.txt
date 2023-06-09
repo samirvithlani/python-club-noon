@@ -1,0 +1,60 @@
+programming langugae :-
+    void main()
+
+scripting langugae :-
+    print("hello world")
+
+
+print("hello")
+compiler:- compiler will compile code in small chunks and then it will execute the code
+
+interpreter : line by line execution
+python is interpreter language
+
+------------------------------------------------------------------------------------------
+
+staticly typed language :-
+    you need to define the type of variable before using it
+    c++ is staticly typed language
+    java is staticly typed language
+    c is staticly typed language
+dynamicly typed language :-
+    you dont need to define the type of variable before using it
+    python is dynamicly typed language
+
+
+defination variable: variable  is container which can hold value..
+
+1) variable name should be unique
+2) variable name should not start with number
+3) variable name should not contain any special character except underscore(_)
+4) variable name should not be any keyword
+5) variable name should not contain any space
+
+int x =100
+
+#opearotes:
+opearotes are used to perform some operation on operands
+
+type of operators:-
+1) arithmatic operators +,-,*,/,%,//,**
+
+2) assignment operators =,+=,-=,*=,/=,%=,//=,**=
+3) comparision operators ==,!=,>,<,>=,<=
+    descision making statements
+    if else
+    loops
+
+    true --> output
+    false --> output
+
+4) logical operators and,or,not
+5) bitwise operators &,|,^,~,<<,>>
+6) identity operators is,is not
+7) membership operators in,not in
+
+
+
+
+
+
