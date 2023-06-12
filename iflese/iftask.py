@@ -1,7 +1,7 @@
 income = int(input("Enter your income: "))
 pt = 200
-pfper = 5
-taxreachpoint = 500000
+pfper = 10
+taxreachpoint = 700000
 tax =0
 taxper = 10
 aftertaxincome =0
