@@ -30,3 +30,10 @@ wending machine...
 20 2 = 9
 5 1 = 4
 2 2 = 0 
+
+
+
+sum of list --->
+remove duplicate elements from list
+find max element from list
+find second largest element from list
