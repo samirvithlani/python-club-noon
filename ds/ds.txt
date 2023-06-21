@@ -17,7 +17,15 @@ immutable: can not change with same reference
 # list is dynamic # int a[10]
 # list allows duplicate values
 
-
+tuple
+# list stores the data in the form of index
+# list is immutable
+# list is ordered [12,22,45,6,7,"hello"] 
+# list is collection of different data type elements
+# list is represented by square brackets []
+# list is hetrogenous
+# list is dynamic # int a[10]
+# list allows duplicate values
 
 
 tuple =()
