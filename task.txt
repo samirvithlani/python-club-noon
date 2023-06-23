@@ -37,3 +37,17 @@ sum of list --->
 remove duplicate elements from list
 find max element from list
 find second largest element from list
+
+wallmart sales
+target =[]
+
+
+#3 counties, 3 years quartly gdp
+
+1) which country has highest gdp in first year
+2) which country has highest gdp in second year
+3) which country has highest gdp in third year
+
+after 3 years which country has highest gdp
+
+
