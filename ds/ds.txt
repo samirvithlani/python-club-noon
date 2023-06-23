@@ -27,6 +27,16 @@ tuple
 # list is dynamic # int a[10]
 # list allows duplicate values
 
+dictionary ={}
+# dictionary stores the data in the form of key value pair
+# dictionary is mutable
+# dictionary is ordered
+# dictionary is collection of different data type elements
+# dictionary is represented by curly brackets {}
+# dictionary is hetrogenous
+# dictionary is dynamic
+# dictionary allows duplicate values
+# dictionary does not allows duplicate keys
 
 tuple =()
 dictionary ={}
