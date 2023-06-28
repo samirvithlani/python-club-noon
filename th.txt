@@ -54,6 +54,16 @@ type of operators:-
 7) membership operators in,not in
 
 
+String : char array
+
+unicode : 2 byte
+A : 65
+Z : 90
+
+a : 97
+z : 122
+
+space : 32
 
 
 
