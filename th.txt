@@ -66,5 +66,16 @@ z : 122
 space : 32
 
 
+functions:- function is a block of code which can be used again and again
+
+use : code reusability,code optimization,code readability,code maintainability
+
+type: pre defined function
+      user defined function
+
+1) with return type and with argument
+2) with return type and without argument
+3) without return type and with argument
+4) without return type and without argument        
 
 
