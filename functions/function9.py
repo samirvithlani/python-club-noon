@@ -43,8 +43,6 @@ def outer4(a,b,c):
     #inner4(10+20+30)()
     def inner4(x):
         return x**2;        
-    
-    
     return inner4(a+b+c)
 
 

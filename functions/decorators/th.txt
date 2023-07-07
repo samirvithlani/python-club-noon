@@ -1,0 +1,6 @@
+python decorators:
+
+decorators are used to add functionality to an existing function without changing the function itself.
+decorators are usually called before the definition of a function you want to decorate.
+decorate a function with @ decorator_name.
+decorate accepts a function as an argument and returns a function.
