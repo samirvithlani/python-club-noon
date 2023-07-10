@@ -1,0 +1,4 @@
+lambda: lambda is an anonymous function
+function without name... 
+single line function
+'''

@@ -1,3 +1,4 @@
+#dict
 def isValid(func):
     #func = get
     def inner(s,pattern):
@@ -14,5 +15,5 @@ def isValid(func):
 def get(s):
     print(s)
     
-get("Hello","hi")    
+get("Hello","Hello")    
             
