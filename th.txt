@@ -78,4 +78,11 @@ type: pre defined function
 3) without return type and with argument
 4) without return type and without argument        
 
+Exception handling....
+Error:
+Exception: 
+def: Exception is a process that stop the execution of program
+
+try except finally
+raise
 
