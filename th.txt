@@ -86,3 +86,28 @@ def: Exception is a process that stop the execution of program
 try except finally
 raise
 
+oops with python:
+encapsulation:
+    class
+    object
+    constructor
+abstraction
+
+inheritance:
+
+polymorphism: many forms
+    overloading : same function name with different parameters
+    overriding : same function name with same parameters from parent class to child class
+
+class : class is group of data member and member function,class is blue print of object
+
+object :object is instance / entity / identity  of class
+
+class   object
+Resume   user
+
+Vehcile  car
+Fruit    Mango
+School   student
+
+
