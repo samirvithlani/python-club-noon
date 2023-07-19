@@ -110,4 +110,6 @@ Vehcile  car
 Fruit    Mango
 School   student
 
+howmany copies will generate for insrance variable in python???
+
 
