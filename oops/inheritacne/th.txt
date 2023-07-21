@@ -1,0 +1,24 @@
+inheritance: when child class can use propof parent class this process is called inheritance
+
+5 typer
+single
+    a -> b
+multipule
+    
+        a
+     b     c
+
+------------------
+     x    y
+
+        z   
+
+
+multileve
+a ->b -->c
+hybride
+
+hyricical
+
+
+code resuablity
