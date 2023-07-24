@@ -112,4 +112,84 @@ School   student
 
 howmany copies will generate for insrance variable in python???
 
+polymorphism : run time
+                method overloading
+               compile time
+                method overloading
+
+
+method overloading ??
+same name of method but args / parem data should be change....
+
+string
+search(pname)
+string string
+search(pname,pcolr)
+string int
+sarch(pname,pprice)
+
+
+runtime polymorphism : method overriding
+same function in side child class which is already present in parent class
+
+
+class Iphone{
+
+    display()
+}
+
+class iphone13 extends Iphone{
+
+    display(){}
+}
+class iphone13 extends Iphone{
+
+    display(){}
+}
+
+HDFC BANK  --> ATM CARD --> SBI BANK ATM MACHINE WITHDRAW??
+
+RBI parent class
+
+withdraw()
+
+
+HDFC --> withdraw()
+SBI  --> withdraw()
+
+
+TRAI  :
+call
+msg
+mss
+in
+
+
+JIO simcard  call(){}
+Airtel simcard call
+
+
+
+GENRIC API JDBC
+
+invitation  -> connection extend --> logic
+Connection -->
+
+lapino prhalandnagar
+
+pizza(10)
+
+lapinoz --> cg road 
+
+pizza(10)
+
+
+fb 
+sharestory
+
+whatsapp ---> fb
+sharestory()
+if(yes):
+super().
+
 
