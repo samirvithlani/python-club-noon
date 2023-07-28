@@ -7,7 +7,7 @@ class User:
     @dispatch(object)
     def __init__(self,*args):
         print("args: ",args)
-        print(type(args))
+        print(type(args)) 
 
 
 u = User((10,20,30))        
